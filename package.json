@@ -1,0 +1,22 @@
+{
+  "name": "javascript-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "longestWord.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DinushaNaween/javascript-challenges.git"
+  },
+  "author": "Dinusha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DinushaNaween/javascript-challenges/issues"
+  },
+  "homepage": "https://github.com/DinushaNaween/javascript-challenges#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
