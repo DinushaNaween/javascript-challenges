@@ -2,7 +2,6 @@ const express = require('express');
 const app = express();
 const port = process.env.PORT || 5000;
 const www = process.env.WWW || './';
-const longestWord = require('./longestWord');
 
 app.use(express.static(www));
 
